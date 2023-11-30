@@ -19,9 +19,6 @@ CREATE TABLE plataformas (
     nome VARCHAR(255) NOT NULL
 );
 
-DROP TABLE jogos;
-
-
 DESC jogos;
 
 SHOW DATABASES;
